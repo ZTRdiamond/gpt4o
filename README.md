@@ -1,8 +1,17 @@
-```
-npm install
-npm run dev
+# GPT-4o API
+Build with hono and typescript!
+
+## Setup
+```bash
+git clone https://github.com/ZTRdiamond/gpt4o.git
 ```
 
+## Install
+```bash
+npm install
 ```
-open http://localhost:3000
+
+## Run script
+```bash
+npm run start
 ```
